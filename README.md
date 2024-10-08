@@ -98,7 +98,7 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### Dashboard View
-![Download](./screenshots/download.png)
+![Download](./screenshot/download.png)
 
 
 
