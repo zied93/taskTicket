@@ -55,8 +55,47 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 ### Notifications
 - Notifications are sent via real-time updates when a project’s priority changes.
 
-## How to Run the Project
+## Getting Started
+
+To get a local copy of the project up and running, follow these simple steps:
+
+### Prerequisites
+
+Make sure you have the following installed:
+- **Node.js**: [Download and install Node.js](https://nodejs.org/).
+- **MongoDB**: [Download and install MongoDB](https://www.mongodb.com/).
+
+### Installation
 
 1. **Clone the repository:**
+
+   Open your terminal and run the following command to clone the repository:
    ```bash
    git clone https://github.com/your-username/priority-management-app.git
+2. **Navigate to the project directory:**
+
+   After cloning the repository, navigate to the root directory of the project:
+   ```bash
+   cd priority-management-app
+3. **Install server-side dependencies:**
+
+   In the root directory of the project, install the required server dependencies by running:
+   ```bash
+   npm install
+4. **Install client-side dependencies:**
+
+   Navigate to the `client` directory to install the front-end dependencies:
+   ```bash
+   cd client
+   npm install
+5. **Set up environment variables:**
+
+   In the root directory of the project, create a `.env` file and add the following environment variables:
+   ```bash
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+
+
+
+
+
