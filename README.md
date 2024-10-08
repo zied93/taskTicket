@@ -95,6 +95,14 @@ Make sure you have the following installed:
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
 
+## Screenshots
+
+### Dashboard View
+![Download](./screenshot/download.png)
+
+
+
+
 
 
 
