@@ -99,7 +99,6 @@ Make sure you have the following installed:
 
 ### Dashboard View
 ![Download](./screenshot/dash.png)
-![Download](./screenshot/download.png)
 ![Download](./screenshot/login.png)
 ![Download](./screenshot/profile.png)
 ![Download](./screenshot/project.png)
